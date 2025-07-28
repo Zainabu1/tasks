@@ -45,21 +45,21 @@ color: white;
 font-weight: 500;
 }
 
-.add-btn {
+.adding {
     background-color: #28a745;
 }
-.add-btn:hover {
+.adding:hover {
     background-color: #218838;
 }
 
-.delete-btn {
+.deleting {
     background-color: #dc3545;
 }
-.delete-btn:hover {
+.deleting:hover {
     background-color: #b71c1c;
 }
 
-.added-btn {
+.addedButton {
     background-color: #ffc107;
     color: #333;
 }
